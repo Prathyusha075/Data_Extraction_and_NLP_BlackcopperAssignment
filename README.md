@@ -1,9 +1,8 @@
 # Data_Extraction_and_Text_Analysis_for_Blackcoffer_company.
 
 Blackcoffer
-Consulting Website:  https://blackcoffer.com | https://lsalead.com/
-Web App Products: https://netclan.com/ | https://insights.blackcoffer.com/ | https://hirekingdom.com/ | https://workcroft.com/
-Mobile App Products: Netclan | Bwstory
+Consulting Website:  https://blackcoffer.com 
+
 
 Data Extraction and NLP
 Test Assignment
